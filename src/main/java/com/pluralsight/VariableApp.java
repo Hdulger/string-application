@@ -6,6 +6,7 @@ public class VariableApp {
         int sart_Year=2026;
         char middle_Name_Initial='H';
         boolean pets=false;
+
         String message="Good Job!";
 
         System.out.println("My favorite color is "+fav_Color);
